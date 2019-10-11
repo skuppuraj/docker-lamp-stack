@@ -15,4 +15,4 @@ git pull
 docker-compose up -d
 
 ```
-Your LAMP stack is now ready!! You can access it via http:8080//localhost
+Your LAMP stack is now ready!! You can access it via [http:8080//localhost][http:8080//localhost]
