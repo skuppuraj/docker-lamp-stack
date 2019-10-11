@@ -1,4 +1,4 @@
-<h1>Hello Cloudreach!</h1>
+<h1>Hello everyone!</h1>
 <h4>Attempting MySQL connection from php...</h4>
 <?php
 $host = 'mysql';
@@ -11,3 +11,5 @@ if ($conn->connect_error) {
 } 
 echo "Connected to MySQL successfully!";
 ?>
+
+<a href="info.php" target="_blank">PHP info</a>	
